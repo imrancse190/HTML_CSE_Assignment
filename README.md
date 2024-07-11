@@ -48,7 +48,7 @@ The GitHub repository for this project can be found [here](https://github.com/im
 ## How to Run the Project
 1. Clone the repository:
     ```bash
-    git clone <repository-link>
+    git clone "https://github.com/imrancse190/HTML_CSE_Assignment.git"
     ```
 2. Open `index.html` in your preferred web browser.
 
