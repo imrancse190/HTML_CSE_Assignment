@@ -25,10 +25,10 @@ The icons used in this project are from [Google Icons](https://fonts.google.com/
 - Attractive design for a better user experience
 
 ## Live Demo
-The project is hosted on GitHub Pages. You can view the live version [here](link).
+The project is hosted on GitHub Pages. You can view the live version [here](https://imrancse190.github.io/HTML_CSE_Assignment/).
 
 ## Repository
-The GitHub repository for this project can be found [here](link).
+The GitHub repository for this project can be found [here](https://github.com/imrancse190/HTML_CSE_Assignment/tree/main).
 
 ## Screenshots
 ### Desktop View
